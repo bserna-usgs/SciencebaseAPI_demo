@@ -1,7 +1,5 @@
 # Sciencebase API Demo 
 
-For this we need the Sciencebase PySB package installed on the python interpreter you're using. This also requires python 2.7 
-
-https://my.usgs.gov/stash/projects/SBE/repos/pysb/
-
-
+### Requirements
+* Anaconda installation (w/Python 2.7)
+* PySB [pysb](https://www.sciencebase.gov/about/content/use-python-add-new-items-and-files)
